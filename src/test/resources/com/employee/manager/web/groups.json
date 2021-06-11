@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "jug-tour",
+    "address": "Address",
+    "city": "Lviv",
+    "stateOrProvince": "Lviv1",
+    "country": "Ukraine",
+    "postalCode": "1234",
+    "userRole": "BUSINESS"
+  },
+  {
+    "id": 2,
+    "name": "jug-tour1",
+    "address": "Address1",
+    "city": "Lviv2",
+    "stateOrProvince": "Lviv3",
+    "country": "GH",
+    "postalCode": "1235",
+    "userRole": "ADMIN"
+  }
+]

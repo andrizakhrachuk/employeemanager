@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "name": "jug-tour",
+  "address": "Address",
+  "city": "Lviv",
+  "stateOrProvince": "Lviv1",
+  "country": "Ukraine",
+  "postalCode": "1234",
+  "userRole": "BUSINESS"
+}
